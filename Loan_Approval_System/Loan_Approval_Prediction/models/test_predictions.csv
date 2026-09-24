@@ -1,0 +1,22 @@
+Gender,Married,Education,ApplicantIncome,LoanAmount,CreditHistory,PropertyArea,Actual,Logistic Regression,Decision Tree,Random Forest,XGBoost
+Male,No,Graduate,3500,100,1.0,Rural,1,1,1,1,1
+Male,Yes,Not Graduate,2600,75,0.0,Rural,0,0,0,0,0
+Male,Yes,Graduate,5800,175,1.0,Urban,1,1,1,1,1
+Male,No,Graduate,3700,105,1.0,Urban,1,1,1,1,1
+Male,Yes,Graduate,8300,260,1.0,Urban,1,1,1,1,1
+Male,Yes,Graduate,6900,205,1.0,Semiurban,1,1,1,1,1
+Male,Yes,Graduate,6000,180,1.0,Urban,1,1,1,1,1
+Female,Yes,Graduate,5900,175,1.0,Semiurban,1,1,1,1,1
+Male,Yes,Not Graduate,3050,95,0.0,Rural,0,0,0,0,0
+Female,No,Not Graduate,2450,70,0.0,Rural,0,0,0,0,0
+Female,No,Not Graduate,2300,65,0.0,Rural,0,0,0,0,0
+Male,No,Not Graduate,2400,80,0.0,Rural,0,0,0,0,0
+Female,No,Graduate,4400,125,1.0,Semiurban,1,1,1,1,1
+Female,Yes,Graduate,5500,165,1.0,Urban,1,1,1,1,1
+Female,Yes,Not Graduate,3000,90,0.0,Rural,0,0,0,0,0
+Male,Yes,Graduate,5200,155,1.0,Semiurban,1,1,1,1,1
+Female,No,Graduate,4000,115,1.0,Urban,1,1,1,1,1
+Male,Yes,Graduate,7400,220,1.0,Urban,1,1,1,1,1
+Male,Yes,Graduate,8100,250,1.0,Urban,1,1,1,1,1
+Male,Yes,Graduate,7600,225,1.0,Urban,1,1,1,1,1
+Female,No,Graduate,4200,115,1.0,Urban,1,1,1,1,1
