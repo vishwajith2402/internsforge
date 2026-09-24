@@ -1,0 +1,34 @@
+
+STUDENT PERFORMANCE ANALYSIS REPORT
+===================================
+
+Total Students: 12
+
+Average Final Marks: 77.83
+Average Attendance: 81.17%
+Average Study Hours: 7.58
+
+Passed Students: 8
+Failed Students: 4
+
+TOP PERFORMING STUDENTS
+-----------------------
+Student Name  Final Marks
+       vicky        100.0
+        Hari         97.0
+       Divya         94.0
+
+LOW PERFORMING STUDENTS
+-----------------------
+Student Name  Final Marks
+       Jeeva         48.0
+       Ezhil         51.0
+        Bala         59.0
+
+ATTENDANCE VS FINAL MARKS
+-------------------------
+Correlation: 0.99
+
+STUDY HOURS VS FINAL MARKS
+--------------------------
+Correlation: 0.75
